@@ -1,0 +1,26 @@
+{
+  "name": "node-etherdream",
+  "version": "0.0.1",
+  "description": "Ether-dream laser interface for nodejs",
+  "author": "Per-Olov Jernberg <possan@possan.se>",
+  "contributors": [
+    {
+      "name": "Matt Stone",
+      "email": "matthew.d.stone@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robot-head/node-etherdream"
+  },
+  "bugs": {
+    "url": "https://github.com/robot-head/node-etherdream/issues"
+  },
+  "keywords": [
+    "etherdream",
+    "laser",
+    "ether-dream"
+  ],
+  "analyze": true,
+  "license": "MIT"
+}
