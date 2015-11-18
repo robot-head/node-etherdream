@@ -21,6 +21,7 @@
     "laser",
     "ether-dream"
   ],
+  "main": "index.js",
   "analyze": true,
   "license": "MIT"
 }
