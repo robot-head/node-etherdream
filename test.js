@@ -1,4 +1,4 @@
-var EtherDream = require('./etherdream.js').EtherDream;
+var EtherDream = require('./');
 
 function sendframe(connection, data, callback) {
 	console.log('send frame');
